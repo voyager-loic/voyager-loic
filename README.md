@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="src/sleepy.gif" height="500px" />
+    <img src="src/sleepy.gif" height="300px" />
 </div>
 <!--
 **voyager-loic/voyager-loic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
