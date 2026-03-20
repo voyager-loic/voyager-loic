@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21jZjc3NWs3bzNpZnVvd2hscjhvdXA1aGFsMTI5YXBuaHQzNm84MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1VXUtOOFfoRxnA2qNs/giphy.gif" height="120px" />
+</div>
 <!--
 **voyager-loic/voyager-loic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
