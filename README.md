@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
     <img src="src/sleepy.gif" height="500px" />
 </div>
